@@ -5,13 +5,21 @@
 
 
 ## Scope
+The scope of the program includes any bugs found while making RPC or REST calls. This includes all the transactions and queries exposed by each module in the project.
 
-
+The following are not in the scope of the program:
+  - Any issues already raised in AssetMantle/node or AssetMantle/modules
+  - Any issues already documented in the audit report
+  - Transaction failures in Orders/revoke, modify, immediate or deputize 
+  - Any GRPC gateway queries, the endpoints are exposed but not operational
+  - DDOS attacks
+  - Spamming
+  - Compromise or misuse of third party systems or services
 
 ## Severity Levels
-<div color="red">
-  <h1>High</h1>
-</div
+RED: Concensus failure
+ORANGE: Loss of funds
+YELLOW: Minor logical issues 
 
 ## Rewards
 
