@@ -1,4 +1,3 @@
-# Bug-Bounty
 <div align="center">
   <h1>Node</h1>
 
