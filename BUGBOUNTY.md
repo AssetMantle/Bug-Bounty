@@ -19,8 +19,10 @@ The following are not in the scope of the program:
   - Compromise or misuse of third party systems or services
 
 ## Severity Levels
-RED: Concensus failure
+<span style="color: blue;">RED: Concensus failure</span>
+
 ORANGE: Loss of funds
+
 YELLOW: Minor logical issues 
 
 ## Rewards
