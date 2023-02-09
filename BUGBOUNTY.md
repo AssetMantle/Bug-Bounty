@@ -11,7 +11,7 @@ The scope of the program includes any bugs found while making RPC or REST calls.
 
 The following are not in the scope of the program:
   - Any issues already raised in AssetMantle/node or AssetMantle/modules
-  - Any issues already documented in the audit report
+  - Any issues already documented in Audit Proposal for AssetMantle-2
   - Transaction failures in Orders/revoke, modify, immediate or deputize 
   - Any GRPC gateway queries, the endpoints are exposed but not operational
   - DDOS attacks
