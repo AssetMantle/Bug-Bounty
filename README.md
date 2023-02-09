@@ -70,7 +70,7 @@ or
 * Initialize: `mantleNode init [node_name] --chain-id [chain_name]`
 * Add key for genesis account `mantleNode keys add [genesis_key_name]`
 * Add genesis account `mantleNode add-genesis-account [genesis_key_name] 10000000000000000000stake`
-* Create a validator at genesis `mantleNode gentx [genesis_key_name] 10000000stake --chain-id [CHAIN_ID]`
+* Create a validator at genesis `mantleNode gentx [genesis_key_name] 10000000stake --chain-id [chain_name]`
 * Collect genesis transactions `mantleNode collect-gentxs`
 * Start node `mantleNode start`
 
