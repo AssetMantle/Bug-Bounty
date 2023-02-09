@@ -9,7 +9,9 @@
 
 
 ## Severity Levels
-
+<div color="red">
+  <h1>High</h1>
+</div
 
 ## Rewards
 
