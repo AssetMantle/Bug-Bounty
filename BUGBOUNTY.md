@@ -8,12 +8,10 @@
 
 
 
-## Assumptions
-
+## Severity Levels
 
 
 ## Rewards
-
 
 ## Disclosure
 
