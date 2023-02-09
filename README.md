@@ -91,6 +91,13 @@ killall mantleNode
 ```shell
 mantleNode version
 ```
+### Walkthrough
+Use mantleJsUtils.js to get the required IDs - they will be needed to execute transactions
+AssetMantle/node/.rest and AssetMantle/node/.run contain sample rest requests and run configurations for the project
+mantleNode tx [module_name] --help can be used to find all possible transactions for a given module
+Modules are all available under AssetMantle/modules/modules
+All the transaction messages and request formats are available under AssetMantle/modules/modules/[module_name]/internal/transactions/[transaction_name]
+They can be used to check which inputs are required for each transaction
 
 ## Containeirzed environment
 
