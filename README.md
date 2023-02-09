@@ -65,21 +65,6 @@ or
 
 `mantleNode keys add [key_name] --recover` to regenerate keys with your [BIP39](https://github.com/bitcoin/bips/tree/master/bip-0039) mnemonic
 
-### Connect to a chain and start node
-
-* [Install](#installation-steps) assetMantle application
-* Initialize node
-
-```shell
-mantleNode init [NODE_NAME] --chain-id [CHAIN_ID]
-```
-
-* Start node
-
-```shell
-mantleNode start
-```
-
 ### Initialize a new chain and start node
 
 * Initialize: `mantleNode init [node_name] --chain-id [chain_name]`
