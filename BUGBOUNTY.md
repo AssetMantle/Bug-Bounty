@@ -12,7 +12,7 @@ The scope of the program includes any bugs found while making RPC or REST calls.
 The following are not in the scope of the program:
   - Any issues already raised in AssetMantle/node or AssetMantle/modules
   - Any issues already documented in:-
-      - https://assetmantle-my.sharepoint.com/personal/naman_assetmantle_one/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fnaman%5Fassetmantle%5Fone%2FDocuments%2FOneNote%20Uploads%2FFinalAssetMantleModules%2Edocx%2Epdf&parent=%2Fpersonal%2Fnaman%5Fassetmantle%5Fone%2FDocuments%2FOneNote%20Uploads&ga=1 
+      - [AssetMantle Smart Contract Final Audit Report]https://assetmantle-my.sharepoint.com/personal/naman_assetmantle_one/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fnaman%5Fassetmantle%5Fone%2FDocuments%2FOneNote%20Uploads%2FFinalAssetMantleModules%2Edocx%2Epdf&parent=%2Fpersonal%2Fnaman%5Fassetmantle%5Fone%2FDocuments%2FOneNote%20Uploads&ga=1 
       - [FinalAssetMantleModules.docx.pdf](https://github.com/Quillhash/QuillAudit_Reports/blob/master/AssetMantle%20Smart%20Contract%20Final%20Audit%20Report-%20QuillAudits.pdf) 
       - [FinalAssetMantleWEB.docx.pdf](https://assetmantle-my.sharepoint.com/personal/naman_assetmantle_one/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fnaman%5Fassetmantle%5Fone%2FDocuments%2FOneNote%20Uploads%2FFinalAssetMantleWEB%2Edocx%201%2Epdf&parent=%2Fpersonal%2Fnaman%5Fassetmantle%5Fone%2FDocuments%2FOneNote%20Uploads&ga=1)
   - Transaction failures in Orders/revoke, modify, immediate or deputize 
