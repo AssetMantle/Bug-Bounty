@@ -2,7 +2,7 @@
 # AssetMantle Bug Bounty
 
 ## Overview
-Starting February 12th 2023, https://github.com/AssetMantle/node is subject to the AssetMantle V0.4.0 Bug Bounty.
+https://github.com/AssetMantle/node is subject to the AssetMantle V0.4.0 Bug Bounty.
 Please refer to README.md for any setup related queries.
 All the information required for this program is mentioned below with rewards of upto 1000$, Happy Hunting!
 
@@ -29,10 +29,7 @@ ORANGE: Loss of funds
 YELLOW: Minor logical issues 
 
 ## Rewards
-Rewards will be allocated in MNTL tokens based on the severity of the bug disclosed and will be evaluated and rewarded at the discretion of the AssetMantle team.
-  - Severity RED: 1000$
-  - Severity ORANGE: 500$
-  - Severity Yellow: 100$
+Rewards will be allocated in MNTL tokens based on the severity of the bug and will be evaluated and rewarded at the discretion of the AssetMantle team.
   
 ## Disclosure
 Each bug should be reported by creating an issue including the following details:
