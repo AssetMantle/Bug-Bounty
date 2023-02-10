@@ -2,7 +2,7 @@
 # AssetMantle Bug Bounty
 
 ## Overview
-https://github.com/AssetMantle/node is subject to the AssetMantle V0.4.0 Bug Bounty.
+[AssetMantle/node](https://github.com/AssetMantle/node) is subject to the AssetMantle V0.4.0 Bug Bounty.
 Please refer to README.md for any setup related queries.
 All the information required for this program is mentioned below with rewards of upto 1000$, Happy Hunting!
 
