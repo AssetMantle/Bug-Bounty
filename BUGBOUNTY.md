@@ -30,6 +30,11 @@ YELLOW: Minor logical issues
 
 ## Rewards
 Rewards will be allocated in MNTL tokens based on the severity of the bug and will be evaluated and rewarded at the discretion of the AssetMantle team.
+
+Reward distribution:
+  - RED: 1000$
+  - ORANGE: 500$
+  - YELLOW: 100$
   
 ## Disclosure
 Each bug should be reported by creating an issue including the following details:
