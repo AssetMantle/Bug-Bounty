@@ -34,8 +34,11 @@ transfer and decentralized exchange.
 ## How to use JMeter and testnet
 
 >https://github.com/AssetMantle/node/blob/AssetMantle/BugBounty/.jmeter/SuccessfulFlow.jmx contains the jmeter script used for testing
+
 >Please note that the IP and PORT are set to your localhost by default, to use it on testnet, change each protocol from http to https and IP to restnet.testnet.assetmantle.one, PORT should be blank.
+
 >You may try different types of inputs and record any failures that are unexpected, each request shows the exact body required to carry out transactions, please feel free to send them separately as POST requests if required
+
 >the FAUCET request in jmeter requires a running node which can carry out a simple send tx, you can use https://testnet.faucet.assetmantle.one/{address}
 
 ## Installation Steps
