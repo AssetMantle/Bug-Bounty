@@ -63,6 +63,9 @@ git checkout [vX.X.X]
 cd AssetMantle/node
 make install
 ```
+### Setup script
+https://github.com/AssetMantle/node/blob/master/.script/setup.sh can be used to setup the chain, afterwards you just need to run it
+The following steps are for those who wish to use CLI commands directly to run the chain
 
 ### Generate keys
 
@@ -99,7 +102,7 @@ killall mantleNode
 mantleNode version
 ```
 ### Walkthrough
-Use mantleJsUtils.js to get the required IDs - they will be needed to execute transactions
+Please go through all JMeter transactions carefully, they explain the whole flow and show how requests are to be sent
 
 AssetMantle/node/.rest and AssetMantle/node/.run contain sample rest requests and run configurations for the project
 
